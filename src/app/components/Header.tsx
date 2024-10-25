@@ -1,7 +1,7 @@
 import Link from "next/link"
 
 Link
-const Navbar=() =>{
+export const Navbar=() =>{
     return (
         <div className="navbar">
             <div className="logo">My Website</div>
